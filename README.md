@@ -1,2 +1,2 @@
-# game-object-collision
-to make any two game objects collide
+# p5.play-boilerplate
+Boiler plate for p5.play
